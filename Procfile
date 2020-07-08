@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=default --enable_nbextensions=True notebooks/ipympl_test2.ipynb
+web: voila --port=$PORT --no-browser --template=default --enable_nbextensions=True notebooks/bokeh_test.ipynb
