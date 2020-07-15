@@ -3,5 +3,6 @@ voila-material
 bqplot
 matplotlib
 numpy
+scipy
 ipywidgets
 ipympl
