@@ -1,7 +1,6 @@
 voila
 voila-material
 bqplot
-Jinja2
 matplotlib
 numpy
 scipy
