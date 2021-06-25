@@ -1,5 +1,6 @@
 voila
 voila-material
+voila-gridstack
 bqplot
 Jinja2
 matplotlib
