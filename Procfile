@@ -1,2 +1,2 @@
 
-web: voila --port=$PORT --no-browser --template=default --enable_nbextensions=True gaussian.ipynb
+web: voila --port=$PORT --no-browser gaussian.ipynb
