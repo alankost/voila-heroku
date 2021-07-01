@@ -1,2 +1,2 @@
 
-web: voila --port=$PORT --no-browser /notebooks/ipympl_test.ipynb
+web: voila --port=$PORT --no-browser ipympl_test.ipynb
