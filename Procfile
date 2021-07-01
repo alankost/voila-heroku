@@ -1,2 +1,2 @@
 
-web: voila --port=$PORT --no-browser gaussian.ipynb
+web: voila --port=$PORT --no-browser /notebooks/ipympl_test.ipynb
